@@ -1,0 +1,38 @@
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\bin\Debug\DiscordInvite.exe
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\bin\Debug\DiscordInvite.pdb
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\bin\Debug\DiscordInvite.xml
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\bin\Debug\GoogleSearchAPI.dll
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\bin\Debug\GoogleSearchAPI.pdb
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\bin\Debug\GoogleSearchAPI.xml
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\obj\x86\Debug\DiscordInvite.vbprojResolveAssemblyReference.cache
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\obj\x86\Debug\DiscordInvite.Form1.resources
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\obj\x86\Debug\DiscordInvite.Resources.resources
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\obj\x86\Debug\DiscordInvite.vbproj.GenerateResource.Cache
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\obj\x86\Debug\DiscordInvite.exe
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\obj\x86\Debug\DiscordInvite.xml
+C:\Users\DiamondWolf\AppData\Local\Temporary Projects\DiscordInvite\obj\x86\Debug\DiscordInvite.pdb
+C:\Users\DiamondWolf\documents\visual studio 2010\Projects\DiscordInvite\DiscordInvite\obj\x86\Debug\DiscordInvite.exe
+C:\Users\DiamondWolf\documents\visual studio 2010\Projects\DiscordInvite\DiscordInvite\obj\x86\Debug\DiscordInvite.xml
+C:\Users\DiamondWolf\documents\visual studio 2010\Projects\DiscordInvite\DiscordInvite\obj\x86\Debug\DiscordInvite.pdb
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\bin\Debug\DiscordInvite.exe.config
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\bin\Debug\DiscordInvite.exe
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\bin\Debug\DiscordInvite.pdb
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\bin\Debug\DiscordInvite.xml
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\bin\Debug\GoogleSearchAPI.pdb
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\bin\Debug\GoogleSearchAPI.xml
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\obj\x86\Debug\DiscordInvite.vbprojAssemblyReference.cache
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\obj\x86\Debug\DiscordInvite.Form1.resources
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\obj\x86\Debug\DiscordInvite.Resources.resources
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\obj\x86\Debug\DiscordInvite.vbproj.GenerateResource.cache
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\obj\x86\Debug\DiscordInvite.vbproj.CoreCompileInputs.cache
+C:\Users\DiamondWolf\Documents\Visual Studio 2010\Projects\DiscordInvite\DiscordInvite\obj\x86\Debug\DiscordInvite.vbproj.CopyComplete
+C:\Users\DiamondWolf\Desktop\DiscordInvite\DiscordInvite.exe.config
+C:\Users\DiamondWolf\Desktop\DiscordInvite\DiscordInvite.exe
+C:\Users\DiamondWolf\Desktop\DiscordInvite\DiscordInvite.pdb
+C:\Users\DiamondWolf\Desktop\DiscordInvite\DiscordInvite.xml
